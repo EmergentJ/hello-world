@@ -1,2 +1,5 @@
 # hello-world
-this is a short description
+
+Hi Universe!
+
+I'm John Joe, that's all for now.
